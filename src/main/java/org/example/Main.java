@@ -14,7 +14,7 @@ public class Main {
         dog.makeVoice();
         dog.makeVoice("gav gav");
 
-        Shelter secondLife = new Shelter("Titus", "Slobodskaya 292");
+        Shelter secondLife = new Shelter("Secondlife", "Slobodskaya 292");
 
         Dog dog2 = new Dog("Titus", "Alabai", secondLife, ColorEnum.WHITE);
 
